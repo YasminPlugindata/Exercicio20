@@ -1,0 +1,13 @@
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\bin\Debug\netcoreapp3.1\Exercicio22.exe
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\bin\Debug\netcoreapp3.1\Exercicio22.deps.json
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\bin\Debug\netcoreapp3.1\Exercicio22.runtimeconfig.json
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\bin\Debug\netcoreapp3.1\Exercicio22.runtimeconfig.dev.json
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\bin\Debug\netcoreapp3.1\Exercicio22.dll
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\bin\Debug\netcoreapp3.1\Exercicio22.pdb
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\obj\Debug\netcoreapp3.1\Exercicio22.csprojAssemblyReference.cache
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\obj\Debug\netcoreapp3.1\Exercicio22.AssemblyInfoInputs.cache
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\obj\Debug\netcoreapp3.1\Exercicio22.AssemblyInfo.cs
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\obj\Debug\netcoreapp3.1\Exercicio22.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\obj\Debug\netcoreapp3.1\Exercicio22.dll
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\obj\Debug\netcoreapp3.1\Exercicio22.pdb
+C:\Users\Yasmin Laiz\source\repos\Exercicio22\Exercicio22\obj\Debug\netcoreapp3.1\Exercicio22.genruntimeconfig.cache
